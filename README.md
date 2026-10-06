@@ -1,285 +1,412 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-# 👋 Hey, I'm Sahibjit Singh
+# `SAHIBJIT.SYS`
 
-### Full-Stack Developer • CSE Student • AI Builder
+### Full-Stack Developer building at the intersection of **Web × AI**
 
-<p>
-  <a href="https://github.com/sahibjitdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sahibjit">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/isahibjit/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="mailto:sahibjit303@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-<p>
-  <b>Building full-stack products • Solving DSA • Exploring AI • Learning by shipping</b>
-</p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   ███████╗ █████╗ ██╗  ██╗██╗██████╗      ██╗██╗████████╗  │
+│   ██╔════╝██╔══██╗██║  ██║██║██╔══██╗     ██║██║╚══██╔══╝  │
+│   ███████╗███████║███████║██║██████╔╝     ██║██║   ██║     │
+│   ╚════██║██╔══██║██╔══██║██║██╔══██╗██   ██║██║   ██║     │
+│   ███████║██║  ██║██║  ██║██║██║  ██║╚█████╔╝██║   ██║     │
+│   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝   ╚═╝     │
+│                                                              │
+│              BUILD • SHIP • LEARN • REPEAT                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**B.Tech CSE · MERN · C++ · AI · Builder**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sahibjitdev-181717?style=flat-square&logo=github)](https://github.com/sahibjitdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahibjit-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sahibjit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-isahibjit-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/isahibjit/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:sahibjit303@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## `> whoami`
 
-I'm a **B.Tech Computer Science & Engineering student** who enjoys turning ideas into real, usable software.
+```js
+const sahibjit = {
+    identity: "Computer Science Student & Developer",
+    
+    currently: "Building + learning",
+    
+    mainStack: "MERN",
+    
+    languages: ["C++", "JavaScript", "Java"],
+    
+    interestedIn: [
+        "Full-Stack Development",
+        "Artificial Intelligence",
+        "Developer Tools",
+        "Problem Solving"
+    ],
 
-My main focus is **full-stack development with the MERN stack**, while continuously improving my **Data Structures & Algorithms skills with C++**.
+    currentlyLearning: [
+        "Advanced DSA",
+        "AI-powered applications",
+        "Better system architecture"
+    ],
 
-I'm particularly interested in combining **web development + AI** to build products that solve practical problems.
+    lookingFor: "Software Development Internship"
+};
+```
+
+> I like taking an idea from **“what if?” → working product**.
+
+---
+
+# `01 / THE STACK`
+
+I don't try to collect technologies.
+
+I focus on technologies I can actually **build with**.
+
+### `CORE`
 
 ```text
-🎓 B.Tech CSE
-💻 Full-Stack / MERN Developer
-🤖 AI & Gemini Integration
-🧠 DSA with C++
-🚀 Building real-world projects
-🌱 Currently looking for internship opportunities
+C++                 ████████████████████  DSA / Problem Solving
+JavaScript          ████████████████████  Full-Stack Development
+```
+
+### `WEB`
+
+```text
+HTML / CSS          →  Interfaces
+JavaScript          →  Application Logic
+React               →  Frontend
+Node.js             →  Backend
+Express             →  APIs
+EJS                 →  Server-side Rendering
+Bootstrap            →  UI
+```
+
+### `DATA`
+
+```text
+MongoDB             →  NoSQL Applications
+Mongoose            →  Data Modeling
+MySQL               →  Relational Databases
+```
+
+### `AI`
+
+```text
+Google Gemini
+Gemini 2.5 Flash
+AI-powered workflows
+AI × Web Applications
+```
+
+### `TOOLS`
+
+```text
+Git → GitHub → Postman → VS Code → Cloudinary → Mapbox
 ```
 
 ---
 
-## 🚀 What I'm Currently Working On
+# `02 / WHAT I'M BUILDING`
 
-- 🔥 Building and improving **full-stack MERN applications**
-- 🤖 Integrating **AI into web applications**
-- 🧠 Practicing **DSA & problem solving with C++**
-- ⚡ Exploring modern **AI-powered developer workflows**
-- 🌐 Improving my projects with better **UI/UX, performance & architecture**
-- 💼 Preparing for **Software Development / Full-Stack internships**
+## `01 — TripStay`
 
----
+### `A full-stack property platform`
 
-# 🛠️ Tech Stack
+TripStay is my full-stack project where I brought together the concepts I've learned about backend development, databases, authentication, APIs and deployment.
 
-### 💻 Languages
+```text
+USER
+ │
+ ├── Authentication
+ │
+ ├── Search
+ │
+ ├── Listings
+ │
+ ├── Reviews
+ │
+ └── Maps
+       │
+       ▼
+   EXPRESS API
+       │
+       ▼
+    MONGODB
+```
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-</p>
+**Built with**
 
-### ⚛️ Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-</p>
-
-### 🧩 Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### 🤖 AI
-
-<p>
-
-`Google Gemini` • `Gemini 2.5 Flash` • `AI-assisted Development`
-
-</p>
+`Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Bootstrap` `Cloudinary` `Mapbox`
 
 ---
 
-# 🌟 Featured Projects
+## `02 — CodeHire`
 
-## 🏠 TripStay
+### `AI × Technical Recruitment`
 
-**Full-Stack Property Listing Platform**
+CodeHire explores how AI can improve technical recruitment.
 
-A full-stack accommodation/listing platform built with the MERN ecosystem, featuring authentication, listings, reviews, image uploads, maps and location-based functionality.
+Instead of treating AI as a chatbot, the goal is to make it part of the actual **recruitment workflow**.
 
-**Key Features**
+```text
+Resume
+   ↓
+AI Analysis
+   ↓
+Candidate Data
+   ↓
+Recruitment Pipeline
+   ↓
+Technical Assessment
+   ↓
+Interview
+   ↓
+Decision
+```
 
-- 🔐 User authentication & authorization
-- 🏡 Create, edit & delete property listings
-- ⭐ Reviews & ratings
-- ☁️ Cloudinary image uploads
-- 🗺️ Mapbox location integration
-- 🔎 Listing search & filtering
-- 💾 MongoDB database
-- 🚀 Deployed full-stack application
+### `Core Ideas`
 
-**Tech:** `Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Bootstrap` `Cloudinary` `Mapbox`
-
----
-
-## 🤖 CodeHire
-
-**AI-Powered Technical Recruitment Platform**
-
-An AI-driven recruitment platform designed to streamline the technical hiring process—from resume analysis to candidate evaluation.
-
-**Key Features**
-
-- 🤖 AI-powered recruitment assistance
+- 🤖 AI-powered resume analysis
 - 📄 Automated resume parsing
-- 🧠 Gemini-powered candidate analysis
-- 📋 Drag-and-drop Kanban recruitment pipeline
+- 🧠 Gemini-powered candidate insights
+- 📋 Kanban recruitment pipeline
 - 🎥 Async video interviews
-- 💻 Monaco Editor-based coding assessments
-- 👥 Talent CRM functionality
+- 💻 Monaco-based coding assessments
+- 👥 Talent CRM
 
-**Tech:** `MERN Stack` `Google Gemini` `MongoDB` `Express.js` `React.js` `Node.js`
+**Built with**
 
----
-
-# 🧠 DSA & Problem Solving
-
-I regularly practice **Data Structures & Algorithms using C++** and use competitive/problem-solving platforms to strengthen my fundamentals.
-
-### Areas I'm working on
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues`  
-`Trees` • `Graphs` • `Recursion` • `Dynamic Programming`  
-`Greedy Algorithms` • `Searching` • `Sorting` • `Hashing`
-
-<p align="center">
-  <a href="https://leetcode.com/u/isahibjit/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
+`MERN` `Google Gemini` `MongoDB` `Node.js` `Express.js` `React`
 
 ---
 
-# 🏆 Experience & Highlights
+# `03 / THE WAY I LEARN`
+
+I don't want to only **watch tutorials**.
+
+My learning loop looks more like this:
+
+```text
+                 ┌───────────────┐
+                 │     IDEA      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BUILD     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BREAK     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    DEBUG      │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    UNDERSTAND │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     SHIP      │
+                 └───────┬───────┘
+                         │
+                         └──────────→ NEXT IDEA
+```
+
+That's also why my projects are not always perfect.
+
+**The goal is progress, not pretending everything worked on the first try.**
+
+---
+
+# `04 / DSA TERMINAL`
+
+```text
+$ ./sahibjit --solve
+
+Loading problem-solving engine...
+
+[████████████████████] 100%
+
+Language       : C++
+Practice       : LeetCode
+Focus          : DSA
+Status         : ACTIVE
+
+Current targets
+─────────────────────────────
+✓ Arrays
+✓ Strings
+✓ Searching
+✓ Sorting
+✓ Linked Lists
+→ Trees
+→ Graphs
+→ Dynamic Programming
+→ Advanced Problems
+```
+
+[![LeetCode](https://img.shields.io/badge/OPEN_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/isahibjit/)
+
+---
+
+# `05 / OUTSIDE THE CODE`
 
 ### 🌐 Google Student Ambassador
 
-Selected as a **Google Student Ambassador**, contributing to student-focused technology initiatives and community activities.
+Technology isn't only about writing code.
 
-I've been involved in organizing and promoting events around emerging technologies and **Google Gemini**.
+As a **Google Student Ambassador**, I've also been involved in technology communities, student events and activities around emerging technologies such as **Google Gemini**.
 
-### 💡 Community & Events
-
-- 🎤 Hosted technology-focused student events
-- 🤖 Organized Gemini-focused activities
-- 🚀 Participated in developer & hackathon communities
-- 🏅 Contributed to open-source/developer initiatives
-- 🎯 Participated in university hackathons
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sahibjitdev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahibjitdev&layout=compact&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sahibjitdev&hide_border=true" />
-
-</div>
-
----
-
-# 📈 My Developer Journey
+### 🎤 Community
 
 ```text
-C++ / DSA
-    │
-    ├── Problem Solving
-    │
-    ▼
-Frontend Development
-    │
-    ├── HTML • CSS • JavaScript
-    ├── Bootstrap
-    └── React
-    │
-    ▼
-Backend Development
-    │
-    ├── Node.js
-    ├── Express.js
-    └── REST APIs
-    │
-    ▼
-Databases
-    │
-    ├── MongoDB
-    └── MySQL
-    │
-    ▼
-Full-Stack Applications
-    │
-    ├── TripStay
-    └── CodeHire
-    │
-    ▼
-AI-Powered Development 🤖
-    │
-    └── Gemini • AI Features • AI Coding Workflows
+Student Community
+       ↓
+Technology Events
+       ↓
+Developer Interaction
+       ↓
+Sharing & Learning
+       ↓
+Building Together
 ```
 
----
+### 🏆 Highlights
 
-# 🎯 2026 Goals
-
-- [x] Build full-stack MERN applications
-- [x] Deploy real-world projects
-- [x] Work with MongoDB & REST APIs
-- [x] Integrate AI into applications
-- [x] Explore Gemini APIs
-- [ ] Become stronger at DSA
-- [ ] Contribute more to open source
-- [ ] Build more production-ready applications
-- [ ] Land a strong software development internship
-- [ ] Keep shipping 🚀
+- Google Student Ambassador
+- Gemini-focused student events
+- Developer community activities
+- Hackathon participation
+- Adobe University Hackathon — Round 1
+- Open-source/developer contributions
 
 ---
 
-# 💬 Let's Connect
+# `06 / CURRENT BUILD`
 
-I'm always interested in:
+```text
+┌────────────────────────────────────────────────────┐
+│                  CURRENT STATUS                    │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  Full-Stack Development          █████████░ 90%   │
+│  MERN                            █████████░ 90%   │
+│  JavaScript                      █████████░ 90%   │
+│  MongoDB                         ████████░░ 80%   │
+│  Backend Architecture            ███████░░░ 70%   │
+│  DSA / C++                       ███████░░░ 70%   │
+│  AI Integration                  ███████░░░ 70%   │
+│  System Design                   █████░░░░░ 50%   │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
 
-**Full-Stack Development • AI × Web • Open Source • Hackathons • Developer Communities**
+> The percentages aren't skill ratings.  
+> They're simply a snapshot of **where I'm investing my learning time.**
+
+---
+
+# `07 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<a href="mailto:sahibjit303@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=sahibjitdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" height="180"/>
 
-<a href="https://www.linkedin.com/in/sahibjit">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahibjitdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
 
-<a href="https://github.com/sahibjitdev">
-<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sahibjitdev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9"/>
 
 </div>
 
 ---
 
+# `08 / CONTRIBUTION MAP`
+
 <div align="center">
 
-### ⚡ Build. Break. Learn. Repeat.
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahibjitdev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff)](https://github.com/sahibjitdev)
 
-*Always learning. Always building.*
+</div>
+
+---
+
+# `09 / ROADMAP`
+
+```text
+                         2026
+                          │
+             ┌────────────┼────────────┐
+             ↓            ↓            ↓
+           MERN          DSA           AI
+             │            │            │
+             └────────────┼────────────┘
+                          ↓
+                  Production Projects
+                          ↓
+                    Open Source
+                          ↓
+                    Internship
+                          ↓
+                 Software Developer
+```
+
+### Current mission
+
+- [x] Build and deploy full-stack applications
+- [x] Work with MongoDB & REST APIs
+- [x] Integrate Gemini into applications
+- [x] Participate in developer communities
+- [x] Build projects beyond tutorials
+- [ ] Become significantly stronger at DSA
+- [ ] Contribute consistently to open source
+- [ ] Build more production-grade systems
+- [ ] Secure a strong software development internship
+
+---
+
+# `10 / FIND ME`
+
+<div align="center">
+
+### If you're building something interesting, let's talk.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sahibjitdev-181717?style=for-the-badge&logo=github)](https://github.com/sahibjitdev)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sahibjit%20Singh-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahibjit)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-isahibjit-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/isahibjit/)
+
+[![Email](https://img.shields.io/badge/Email-sahibjit303%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:sahibjit303@gmail.com)
+
+<br><br>
+
+```text
+> Building things I wish existed.
+> Learning things I don't understand.
+> Shipping things I'm proud of.
+```
+
+### `EOF`
 
 </div>
