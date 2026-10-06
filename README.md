@@ -216,27 +216,6 @@ Every project teaches me something that a tutorial can't:
 
 ---
 
-# 🎯 2026
-
-```text
-FULL-STACK DEVELOPMENT     ███████████████████░
-DSA / C++                  ███████████████░░░░░
-AI INTEGRATION             ██████████████░░░░░░
-OPEN SOURCE                ██████████░░░░░░░░░░
-SYSTEM DESIGN              ███████░░░░░░░░░░░░░
-```
-
-**Goals**
-
-- Become significantly stronger at DSA
-- Build production-quality full-stack applications
-- Explore deeper AI integration
-- Contribute consistently to open source
-- Work with strong engineering teams
-- Land a software development internship
-
----
-
 # 🤝 Let's Build Something
 
 I'm interested in collaborating on:
